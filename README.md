@@ -8,6 +8,7 @@ I keep this on GitHub to access and share it more easily.
   
 * [Beginner courses](#beginnerCourses)
 * [Items I Use Regularly](#regularItems)
+* [Disability Simulation and Personas](#simulationPersonas)
 * [Lists & Checklists](#checklists)
 * [How to guides](#howTo)
 * [Cognitive disabilities](#cognitive)
@@ -24,7 +25,13 @@ I keep this on GitHub to access and share it more easily.
 
 &nbsp;
 ## Items I Use Regularly<a id='regularItems'></a>
-* [WCAG2 Quick Reference](https://3pha.com/wcag2/) by Jo Chidzik. All WCAG success criteria on one page — useful overview and the fastest way to look up a criterion.
+* [WCAG2 Quick Reference](https://3pha.com/wcag2/) by Jo Chidzik. All WCAG success criteria on one page — a useful overview and the fastest way to look up a criterion.
+* [HMRC's Virtual Empathy Hub](https://personas-prototype.herokuapp.com/): Fantastic prototype simulation of bad and good experiences using the GDS personas
+
+&nbsp;
+## Disability Simulation and Personas<a id='simulationPersonas'></a>
+* [GDS accessibility personas](https://alphagov.github.io/accessibility-personas/): Useful to learn about differing access needs
+* [W3C Stories of Web Users](https://www.w3.org/WAI/people-use-web/user-stories/): Stories that represent the experiences of some people with disabilities using the web
 
 &nbsp;
 ## Lists & Checklists<a id='checklists'></a>
